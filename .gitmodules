@@ -1,0 +1,9 @@
+[submodule "lib/SPIRV-Reflect"]
+	path = lib/SPIRV-Reflect
+	url = https://github.com/fluffels/SPIRV-Reflect.git
+[submodule "lib/jcwk"]
+	path = lib/jcwk
+	url = https://github.com/fluffels/jcwk.git
+[submodule "lib/stb"]
+	path = lib/stb
+	url = https://github.com/fluffels/stb.git

@@ -1,0 +1,7 @@
+.vs
+.vscode
+build/
+LOG
+*.spv
+RenderDoc.cap
+RemedyBG.rdbg
